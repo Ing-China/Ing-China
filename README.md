@@ -11,5 +11,8 @@
     🎓 I'm currently studying Information Technology at Build Bright University.
 </p>
 <p>
-    💡 I'm someone who loves exploring new things—whether it's diving into emerging technologies or discovering new ways to solve problems.
+    💡 I thrive on exploring new technologies and turning challenges into opportunities.
+</p>
+<p>
+    🎥 In the future, I aspire to become a content creator, sharing insights and knowledge about Information Technology.
 </p>
