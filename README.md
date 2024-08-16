@@ -27,3 +27,9 @@
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=Ing-China&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 </div>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ing-china&show_icons=true&locale=en&layout=compact" alt="ing-china" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ing-china&show_icons=true&locale=en" alt="ing-china" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ing-china&" alt="ing-china" /></p>
