@@ -22,6 +22,10 @@
     🔭 I'm currently working on my end-of-year thesis, developing a mobile e-commerce application using React Native.
 </p>
 
-# 📊 GitHub Stats:
+#
+
+<h3>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=600&height=60&duration=5000&lines=GitHub+Stats" />
+</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=Ing-China&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
