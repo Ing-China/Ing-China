@@ -16,3 +16,6 @@
 <p style="font-family: Arial, sans-serif;">
     🎥 In the future, I aspire to become a content creator, sharing insights and knowledge about Information Technology.
 </p>
+<p style="font-family: Arial, sans-serif;">
+    🔭 I'm currently working on my end-of-year thesis, developing a mobile e-commerce application using React Native.
+</p>
