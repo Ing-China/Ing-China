@@ -4,6 +4,8 @@
 
 # <img src="assets/gif/walking-ready.gif" alt="walking gif" width="50"/> About me
 
+[![](https://visitcount.itsvg.in/api?id=Ing-China&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <p style="font-family: Arial, sans-serif;">
     🛠️ I’m passionate about turning ideas into reality through innovative mobile apps that simplify life.
 </p>
@@ -23,11 +25,3 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Ing-China&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ing-China&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ing-China&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Ing-China&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
