@@ -7,3 +7,6 @@
 <p>
     🛠️ I’m passionate about turning ideas into reality through innovative mobile apps that simplify life.
 </p>
+<p>
+    🎓 I'm currently studying Information Technology at Build Bright University.
+</p>
