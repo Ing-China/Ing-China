@@ -24,13 +24,7 @@
 
 # 🚀 GitHub Stats:
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Ing-China&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ing-China&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=Ing-China&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ing-China&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
