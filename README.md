@@ -19,3 +19,7 @@
 <p style="font-family: Arial, sans-serif;">
     🔭 I'm currently working on my end-of-year thesis, developing a mobile e-commerce application using React Native.
 </p>
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=Ing-China&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
