@@ -11,5 +11,5 @@
     🎓 I'm currently studying Information Technology at Build Bright University.
 </p>
 <p>
-    🌱 **Interests**: Exploring new mobile app development trends, UI/UX design, and learning new programming languages.
+    💡 I'm someone who loves exploring new things—whether it's diving into emerging technologies or discovering new ways to solve problems.
 </p>
