@@ -58,5 +58,3 @@
     <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
 </div>
 
-gg
-
