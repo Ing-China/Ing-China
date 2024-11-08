@@ -48,7 +48,7 @@
 </a>  
 </div>
 
-# ⚡️ Languages | Frameworks | Toolss 
+# ⚡️ Languages | Frameworks | Tools 
 <div align="center">
     <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
     <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
