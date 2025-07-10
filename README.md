@@ -4,8 +4,6 @@
 
 # <img src="assets/gif/walking-ready.gif" alt="walking gif" width="50"/> About me 
 
-[![](https://visitcount.itsvg.in/api?id=Ing-China&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <p style="font-family: Arial, sans-serif;">
     🛠️ I’m passionate about turning ideas into reality through innovative mobile apps that simplify life.
 </p>
