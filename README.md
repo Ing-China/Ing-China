@@ -10,16 +10,16 @@
     🛠️ I’m passionate about turning ideas into reality through innovative mobile apps that simplify life.
 </p>
 <p style="font-family: Arial, sans-serif;">
-    🎓 I'm currently studying Information Technology at Build Bright University.
+    🎓 I recently graduated with a degree in Information Technology from Build Bright University.
 </p>
 <p style="font-family: Arial, sans-serif;">
     💡 I thrive on exploring new technologies and turning challenges into opportunities.
 </p>
 <p style="font-family: Arial, sans-serif;">
-    🎥 In the future, I aspire to become a content creator, sharing insights and knowledge about Information Technology.
+    🎥 I aspire to become a content creator, sharing insights and knowledge about Information Technology.
 </p>
 <p style="font-family: Arial, sans-serif;">
-    🔭 I'm currently working on my end-of-year thesis, developing a mobile e-commerce application using React Native.
+    🔭 For my thesis, I developed a mobile e-commerce application using React Native.
 </p>
 
 # 🚀 GitHub Stats:
