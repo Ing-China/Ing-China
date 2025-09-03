@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=600&height=60&duration=5000&lines=Hello+There!;+My+name+is+China;+I'm+a+mobile+application+developer!" />
 </h3>
 
-# <img src="assets/gif/walking-ready.gif" alt="walking gif" width="50"/> About me 
+# <img src="assets/gif/walking-ready.gif" alt="walking gif" width="50"/> About me
 
 <p style="font-family: Arial, sans-serif;">
     🛠️ I’m passionate about turning ideas into reality through innovative mobile apps that simplify life.
@@ -37,7 +37,6 @@
 
 </div>
 
-
 # ⚡️ Connect with me
 
 <div align="center">
@@ -58,13 +57,11 @@
 </a>  
 </div>
 
-# ⚡️ Languages | Frameworks | Tools 
-<div align="center">
-    <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
-    <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
-    <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-    <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-</div>
+# ⚡️ Languages | Frameworks | Tools
 
+<div align="center">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+    ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+</div>
