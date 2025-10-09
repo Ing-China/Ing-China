@@ -37,7 +37,7 @@
 
 </div>
 
-# 🔗 Connect with meeee
+# 🔗 Connect with me
 
 <div align="center">
 <a href="https://github.com/Ing-China" target="_blank">
