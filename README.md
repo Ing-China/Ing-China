@@ -1,5 +1,7 @@
 <h3>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=600&height=60&duration=5000&lines=Hello+There!;+My+name+is+China;+I'm+a+Full-Stack+Developer!" />
+    <img 
+        src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&width=600&height=60&duration=5000&lines=Hello+There!;My+name+is+China;I'm+a+Full-Stack+Developer!" 
+    />
 </h3>
 
 # <img src="assets/gif/luffy.gif" alt="luffy" width="100"/> About me
