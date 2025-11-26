@@ -22,22 +22,20 @@
     🔭 For my thesis, I developed a mobile e-commerce application using React Native.
 </p>
 
-# 🚀 GitHub Stats:
+# 🚀 GitHub Stats
 
 <div align="center">
-    <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Ing-China&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Ing-China&show_icons=true&theme=dark" 
+    alt="GitHub Stats"
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Ing-China&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  <br/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ing-China&layout=compact&theme=dark" 
+    alt="Top Languages"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Ing-China&show_icons=true" />
-</picture>
-
 </div>
+
 
 # 🔗 Connect with me
 
