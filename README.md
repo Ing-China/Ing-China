@@ -22,14 +22,6 @@
     🔭 For my thesis, I developed a mobile e-commerce application using React Native.
 </p>
 
-## 🚀 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ing-China&show_icons=true&theme=dark" alt="GitHub Stats" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ing-China&layout=compact&theme=dark" alt="Top Languages" />
-
-
-
 # 🔗 Connect with me
 
 <div align="center">
